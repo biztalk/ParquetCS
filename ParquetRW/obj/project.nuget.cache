@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1S4HeFifSYgj0GqOd+c91eAlEM5aWtIJuWplBWCUrunQyAfrVkDTA+yhBEVks6R7abzGll2B03h7uqr+L+aVXQ==",
+  "success": true,
+  "projectFilePath": "/Users/David/repo/ParquetCS/ParquetRW/ParquetRW.csproj",
+  "expectedPackageFiles": [
+    "/Users/David/.nuget/packages/csvhelper/18.0.0/csvhelper.18.0.0.nupkg.sha512",
+    "/Users/David/.nuget/packages/ironsnappy/1.3.0/ironsnappy.1.3.0.nupkg.sha512",
+    "/Users/David/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/David/.nuget/packages/parquet.net/3.8.4/parquet.net.3.8.4.nupkg.sha512",
+    "/Users/David/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/David/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/David/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
